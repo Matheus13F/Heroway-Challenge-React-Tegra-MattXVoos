@@ -1,0 +1,44 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    position: absolute;
+
+}
+
+.Viagem1{
+    width: 550px;
+    height: 350px;
+    background-color: #004080;
+    border-radius: 8px;
+    opacity: 0.8;
+    margin-bottom: 30px;
+    margin-left: 700px;
+}
+
+.container .sizeCard{
+    width: 35px;
+    margin: 10px 15px 10px 15px;
+}
+
+.container .LinhaCard{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid cornflowerblue;
+}
+
+.container .sizeCard1{
+    width: 30px;
+    margin: 10px 15px 10px 15px;
+}
+.container .sizeCard2{
+    width: 20px;
+    margin: 10px 15px 10px 15px;
+}
+
+.container h4{
+    font-size: 15.5px;
+}

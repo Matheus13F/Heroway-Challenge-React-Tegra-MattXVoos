@@ -1,0 +1,24 @@
+@import url('./header.css');
+@import url('./conteudo.css');
+@import url('./footer.css');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #9999ff;
+    color: #fff;
+    background-image: url(../IMG/bgairl.jpg);
+    background-attachment: fixed;
+}
+
+.main {
+    font-size: 16px;
+    font-family: Arial, Helvetica, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+
