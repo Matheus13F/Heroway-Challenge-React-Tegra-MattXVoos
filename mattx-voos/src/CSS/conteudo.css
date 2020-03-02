@@ -30,6 +30,13 @@
     border-bottom: 1px solid cornflowerblue;
 }
 
+.container .LinhaHeroway{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8px;
+}
+
 .container .sizeCard1{
     width: 30px;
     margin: 10px 15px 10px 15px;
